@@ -1,4 +1,4 @@
-framewise-light
+Sentinel project
 ===============
 
 Application framework 
